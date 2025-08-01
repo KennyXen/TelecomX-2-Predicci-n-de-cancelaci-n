@@ -1,6 +1,6 @@
 # 📑 Informe Final: Predicción de Cancelación de Clientes (Churn) – Telecom X
 **Autor:** Henry Valdez  
-**Fecha:** 2025-07-31
+**Fecha:** 31/07/2025
 
 ---
 
